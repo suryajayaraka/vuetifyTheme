@@ -1,0 +1,10 @@
+<v-card class="position-relative profile-card mb-7">
+...
+  <v-switch
+  v-model="isDark"
+  hint=""
+  inset
+  persistent-hint
+  ></v-switch>
+...
+</v-card>
